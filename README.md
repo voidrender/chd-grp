@@ -35,6 +35,12 @@ roms/
     └── Game 3 (Disc 2).chd
 ```
 
+## Usage
+
+```
+./chd-grp.sh --dir=/path/to/roms/
+```
+
 ## Note
 
 A tool like this will probably be added to RetroDECK eventually. See [RetroDECK/RetroDECK#286](https://github.com/RetroDECK/RetroDECK/issues/286), [RetroDECK/RetroDECK#427](https://github.com/RetroDECK/RetroDECK/issues/427).
